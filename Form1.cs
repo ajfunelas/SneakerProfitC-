@@ -15,6 +15,11 @@ namespace SneakerProfit
         public Form1()
         {
             InitializeComponent();
+
+            costBox.Text = "0";
+            sellpriceBox.Text = "0";
+            shippingBox.Text = "0";
+            feeBox.Text = "0";
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -27,6 +32,15 @@ namespace SneakerProfit
             double profit = (sellPrice - cost) - (shippingCost - fees);
 
             resultLabel.Text = profit.ToString();
+        }
+
+        private void clearBtn_Click(object sender, EventArgs e)
+        {
+            costBox.Clear();
+            sellpriceBox.Clear();
+            shippingBox.Clear();
+            feeBox.Clear();
+            resultLabel.Text = "";
         }
     }
 }
