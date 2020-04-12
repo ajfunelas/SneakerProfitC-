@@ -1,0 +1,10 @@
+D:\VS repos\SneakerProfit\bin\Debug\SneakerProfit.exe.config
+D:\VS repos\SneakerProfit\bin\Debug\SneakerProfit.exe
+D:\VS repos\SneakerProfit\bin\Debug\SneakerProfit.pdb
+D:\VS repos\SneakerProfit\obj\Debug\SneakerProfit.csprojAssemblyReference.cache
+D:\VS repos\SneakerProfit\obj\Debug\SneakerProfit.Form1.resources
+D:\VS repos\SneakerProfit\obj\Debug\SneakerProfit.Properties.Resources.resources
+D:\VS repos\SneakerProfit\obj\Debug\SneakerProfit.csproj.GenerateResource.cache
+D:\VS repos\SneakerProfit\obj\Debug\SneakerProfit.csproj.CoreCompileInputs.cache
+D:\VS repos\SneakerProfit\obj\Debug\SneakerProfit.exe
+D:\VS repos\SneakerProfit\obj\Debug\SneakerProfit.pdb
